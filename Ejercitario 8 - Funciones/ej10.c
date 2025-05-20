@@ -22,7 +22,7 @@ int mostrarNumeros(int N, int cant){
         N=N/10;
     }
     printf("%d \n",inv);
-    
+    return inv;
 }
 
 int capicua(int N,int cant){
