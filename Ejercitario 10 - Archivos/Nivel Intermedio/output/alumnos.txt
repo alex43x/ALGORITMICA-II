@@ -1,0 +1,5 @@
+Juan Perez 1 80 90 75
+Rosa Lopez 2 50 60 65
+Pedro Gonzalez 3 40 80 95
+Maria Villalba 4 70 100 90
+Julio Martinez 5 95 95 95

@@ -1,0 +1,4 @@
+**** INFORME DE CONSULTAS MÉDICAS ****
+Cantidad consulta adultos: 3
+Cantidad consulta niños: 2
+Año con más consultas: 2022
